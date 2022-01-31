@@ -1,0 +1,13 @@
+body {
+    background-image: url('../img/background.jpg');
+}
+
+#myCanvas {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: rgb(170, 107, 64);
+}
